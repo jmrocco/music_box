@@ -15,5 +15,5 @@ The design went through many changes during the design process; such as using a 
 
 ![schematic 2](https://github.com/jmrocco/music_box/blob/master/images/Circuit%20Design.PNG)
 
-## Analysis of Capacitance As The Dectants Change
+## Analysis of Capacitance As The Detectants Change
 Using a variety of different materials ie) wood, plastic, cardboard, and metal, the music box behaved the same every time; as long as the object was touching the conductor, the music box played. This shows that the change in capacitance in this use case is not particularly sensitive to the material of the dectant. The material of the dectant does not matter as long as the capacitance measured by the conductor is higher than the threshold specified in the code.
